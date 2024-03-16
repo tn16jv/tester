@@ -1,2 +1,2 @@
-text block 1
+replaced block
 =============
